@@ -1,0 +1,31 @@
+/* Todos os imports devem ser colocados no inicio do CSS */
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Fjalla+One&family=Handlee&display=swap');
+
+
+body{
+    background-color: lavender;
+}
+
+.figura{
+    width: 204px;
+}
+
+/* Classe para configuração de fonte */
+.fonte{
+    color: rgb(215, 14, 255);
+   font-size: 20px;
+    font-family:"Edu AU VIC WA NT Hand", cursive;
+}
+
+.font{
+    color: rgb(93, 0, 146);
+   font-size: 20px;
+    font-family: "Fjalla One", sans-serif;
+}
+
+.fonte2{
+    color: rgb(133, 2, 255);
+   font-size: 20px;
+    font-family: "Handlee", cursive;
+}
